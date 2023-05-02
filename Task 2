@@ -1,0 +1,33 @@
+**Task 2**
+
+Escreva um documento técnico explicando qual seria a melhor maneira de explicar para um usuário de negócios como os diferentes métodos de pagamento são processados pela plataforma VTEX e como a escolha de cada um pode afetar sua loja online? Quais informações 
+e exemplos seriam relevantes para incluir nesta documentação?
+
+---
+
+# Métodos de pagamento 
+
+## Métodos de pagamento por país
+
+Neste tipo de documentação, eu começaria explicando os diferentes métodos de pagamento disponíveis por país e suas características.
+
+## Métodos de pagamento mais usados no momento
+
+Traria informações sobre os métodos mais usados do momento, como Pix, digital wallets e buy now pay later.
+
+## Adicione métodos de pagamento à sua conta
+
+(Neste ponto, traria a descrição de como adicionar cada um dos métodos que a VTEX disponibiliza.)
+
+Iria direto ao ponto e descreveria como ele pode adicionar cada método de pagamento à conta dele. 
+Ao clicar em um método, o usuário seria direcionado para uma página somente para aquele método, ou então todos eles poderiam ficar listados no menu para facilitar a navegação.
+
+Por exemplo, para o PIX:
+
+- Breve descrição sobre o que é o Pix e como funciona;
+- Fluxo do pagamento até chegar ao lojista;
+- Condições para efetuar esse tipo de transação e casos de erro;
+- Como fazer setup e se integrar ao método;
+- Testes e produção;
+
+Voltar para a página principal como os métodos.
