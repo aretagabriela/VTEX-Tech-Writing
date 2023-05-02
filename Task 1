@@ -12,24 +12,27 @@ initial setup to transaction data validation and error handling.
 
 - How to create a test account to get access to your customer area (if any).
 - Testing integrations with VTEX, for example, doing payment tests in a validation environment.
-- List of important documents related to compliance, contracts, etc.
+- A list of important documents related to compliance, contracts, etc.
 - How to start building the integration of the client with VTEX by choosing a certain model/business need (if there is such kind of division) for the selection of modules that will be used.
 - Based on the chosen model, sign a contract.
 
 ## Configuration of the production account
+(Each bullet would direct the user to another page with detailed information about that step.)
+
 Here you can have setup configurations, such as:
 
-- Setup of payment methods.
+- [Setup of payment methods](link to the corresponding page).
 - Information on bank accounts for receiving payments (Finance settings).
 - Reconciliation process.
 - Risk and compliance information.
 
 ## Integration with VTEX APIs
+(Each bullet would direct the user to another page with detailed information about that step.)
 
 - Access credential generation and permissions.
 - Webhooks configurations.
 - Access to VTEX endpoints. Real test scenarios with successful and erroneous results (by entering incorrect card details, for example).
-- List of all the APIs needed for integration separated by groups, e.g. all those related to payments, 3D secure, tokenization, etc.).
+- A list of all the APIs needed for integration separated by groups, for example, all those related to payments, 3D secure, tokenization, etc.).
 
 ## Guidance for next steps
 Information about managing your account after integration.
