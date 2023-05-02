@@ -19,7 +19,7 @@ Traria informações sobre os métodos mais usados do momento, como Pix, digital
 
 (Neste ponto, traria a descrição de como adicionar cada um dos métodos que a VTEX disponibiliza.)
 
-Iria direto ao ponto e descreveria como ele pode adicionar cada método de pagamento à conta dele. 
+Iria direto ao ponto e descreveria como o usuário de negócios pode adicionar cada método de pagamento à conta dele. 
 Ao clicar em um método, o usuário seria direcionado para uma página somente para aquele método, ou então todos eles poderiam ficar listados no menu para facilitar a navegação.
 
 Por exemplo, para o PIX:
@@ -28,6 +28,6 @@ Por exemplo, para o PIX:
 - Fluxo do pagamento até chegar ao lojista;
 - Condições para efetuar esse tipo de transação e casos de erro;
 - Como fazer setup e se integrar ao método;
-- Testes e produção;
+- Testes e produção.
 
 Voltar para a página principal como os métodos.
