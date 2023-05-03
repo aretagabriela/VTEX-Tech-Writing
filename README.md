@@ -1,7 +1,7 @@
 # VTEX-Tech-Writing
 Technical Writer - Skills Test
 
-Testes para processo de seleção de Tech Writer na VTEX.
+Testes para processo seletivo de Tech Writer na VTEX.
 
 Skills Test
 
